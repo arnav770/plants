@@ -1,0 +1,25 @@
+body {
+    background-color: orangered;
+    font-size: 20px;
+    text-align: center;
+}
+
+div {
+    margin-top: 15px;
+}
+
+.image section {
+    display: flex;
+    justify-content: center;
+}
+
+.section style {
+    background-color: white;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+img {
+    width: 550px;
+    height: 350px;
+}
